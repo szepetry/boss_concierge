@@ -1,1 +1,0 @@
-curl -XPOST -u ccbd:HungryHippo@23 https://search-restaurantsearch-67epyyqo43w62rmsekj2ipjxam.us-east-1.es.amazonaws.com/_bulk --data-binary @rest.json -H 'Content-Type: application/json'
